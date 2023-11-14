@@ -24,7 +24,7 @@ Thank you for choosing Python Pizza Deliveries!
 Your final bill is: $28."""
 
 print("Thank you for choosing Python Pizza Deliveries!")
-print("Size: ")
+print("Size (S/M/L): ")
 size = input()
 print("pepperoni(Y/N): ")
 add_pepperoni = input()
